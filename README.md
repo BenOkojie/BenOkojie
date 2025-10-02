@@ -1,7 +1,7 @@
 # 👋 Hi there!
 
 I’m a developer who enjoys building **user-facing software** — from apps to games!  
-💻 My tech stack right now? Pure vibes 🌊 — experimenting, exploring, and having fun along the way.
+💻 My tech stack right now? Usually frontend react and anything on the backend is odne via python still experimenting and learning.
 
 ### 🚀 What I’m working on
 - Improving my **system design** skills
