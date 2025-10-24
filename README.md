@@ -1,6 +1,6 @@
 # 👋 Hi there!
 
-I’m a developer who enjoys building **user-facing software** — from apps to games!  
+I’m a developer who enjoys building **user-facing software**  from apps to games!  
 💻 My tech stack right now? Usually frontend react and anything on the backend is odne via python still experimenting and learning.
 
 ### 🚀 What I’m working on
@@ -8,12 +8,10 @@ I’m a developer who enjoys building **user-facing software** — from apps to 
 - Developing **good coding habits**
 - Refactoring projects for better structure and maintainability
 
-A lot of my code is still a bit messy — I’ve been treating my projects like a **sketchbook** 🎨 — but I’m gradually refining it into cleaner, more professional work.
+A lot of my code is still a bit messy I’ve been treating my projects like a **sketchbook** but I’m gradually refining it into cleaner, more professional work.
 ### 🌟 Favorite project
-My favorite project right now is **Zoopedia** — still cleaning up the frontend, but you can check it out here: [Zoopedia](https://zoopedia-web-wtc7.vercel.app/)
+My favorite project right now is **Zoopedia** (currently down fixing db schema) still cleaning up the frontend, but you can check it out here: [Zoopedia](https://zoopedia-web-wtc7.vercel.app/)
 
-### 📚 Currently reading
-My favorite book at the moment is *Dungeon Crawler Carl*. If you’ve read it — message me on linkedin or something!
 ### 🛠 Tech Stack
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
