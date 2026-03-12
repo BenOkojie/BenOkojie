@@ -1,16 +1,15 @@
 # 👋 Hi there!
 
 I’m a developer who enjoys building **user-facing software**  from apps to games!  
-💻 My tech stack right now? Usually frontend react and anything on the backend is odne via python still experimenting and learning.
+💻 My tech stack right now? React frontend mongodb and on the backend is usually express or fastapi it varies based on the type of project.
 
 ### 🚀 What I’m working on
 - Improving my **system design** skills
-- Developing **good coding habits**
+- Integrating AI into my workflow
 - Refactoring projects for better structure and maintainability
 
-A lot of my code is still a bit messy I’ve been treating my projects like a **sketchbook** but I’m gradually refining it into cleaner, more professional work.
-### 🌟 Favorite project
-My favorite project right now is **Zoopedia** (currently down fixing db schema) still cleaning up the frontend, but you can check it out here: [Zoopedia](https://zoopedia-web-wtc7.vercel.app/)
+A lot of the public code on here is a bit messy I’ve been treating my projects like a **sketchbook** but I’m gradually refining it into cleaner, more professional work.
+
 
 ### 🛠 Tech Stack
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
